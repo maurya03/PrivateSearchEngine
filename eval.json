@@ -1,0 +1,5 @@
+[
+  {"query":"database storage", "relevant_urls":["doc:a"]},
+  {"query":"crash recovery", "relevant_urls":["doc:c"]},
+  {"query":"write ahead logging", "relevant_urls":["doc:a"]}
+]
